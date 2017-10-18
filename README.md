@@ -18,7 +18,6 @@ It's a plugin. You just upload and install it through the network admin.
 ## PHP Classes ##
 - classes are autoloaded.
 - to add classes put them in a folder in src/ and namespace them.
-- call classes wherever you want in wordpress. just use \\DigitalFreelancer\\{classname}::{method}()
 
 ## Shortcodes ##
 - yes, it's wordpress so shortcodes are par for the course.
